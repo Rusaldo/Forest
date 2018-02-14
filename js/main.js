@@ -1,6 +1,6 @@
 // WOW JS PLUGIN INIT
 wow = new WOW ({
-  oxClass: 'wow',
+  boxClass: 'wow',
   animateClass: 'animated',
   offset: 0,
   mobile: false,
